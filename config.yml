@@ -7,7 +7,7 @@ Nodes:
   -
     PanelType: "NewV2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "yukicloud.xyz" # 修改这里
+      ApiHost: "https://yukicloud.xyz" # 修改这里
       ApiKey: "enhjMTU1NzIwODBp" # 修改这里
       NodeID: 2
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
